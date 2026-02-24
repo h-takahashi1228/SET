@@ -1,6 +1,6 @@
 # 🎮 SET – Solo Time Attack (Unreal Engine 5)
 
-![SET Game Thumbnail](リンク先スクリーンショット画像)
+![SET Game Thumbnail](/ScreenShot/thumbnail.png)
 
 一人用タイムアタックゲーム「SET」を Unreal Engine 5 で制作しました。  
 場にあるカードから SET（正しい組み合わせ3枚）を見つけ続け、組み合わせがなくなるまでの時間を競います。
@@ -60,5 +60,5 @@
 
 ## 🎥 デモ動画
 
-[![Play Video](https://img.youtube.com/vi/動画ID/0.jpg)](https://www.youtube.com/watch?v=動画ID)
+[![Play Video](https://img.youtube.com/vi/UICrqqQKmCw/0.jpg)](https://youtu.be/UICrqqQKmCw)
 
